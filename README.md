@@ -56,11 +56,37 @@
 
 ## <span id="head5"> <img src="img/i_Citation.png" width="25" /> Citation </span>
 
-If you find this paper and dataset helpful for your research, please consider citing our paper:
+If you find this paper and dataset helpful for your research, please consider citing as below:
 
 ```bibtex
 
-TBA
+@article{zhou2024agribench,
+  title={AgriBench: A Hierarchical Agriculture Benchmark for Multimodal Large Language Models},
+  author={Zhou, Yutong and Ryo, Masahiro},
+  journal={arXiv preprint arXiv:2412.00465},
+  year={2024}
+}
+
+@article{martinez2024semantic,
+  title={Semantic segmentation dataset of Land Use/Cover Area frame Survey (LUCAS) rural landscape Street View Images},
+  author={Martinez-Sanchez, Laura and Hufkens, Koen and Kearsley, Elizabeth and Naydenov, Dimitar and Cz{\'u}cz, B{\'a}lint and van de Velde, Marijn},
+  journal={Data in Brief},
+  volume={54},
+  pages={110394},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{d2020harmonised,
+  title={Harmonised LUCAS in-situ land cover and use database for field surveys from 2006 to 2018 in the European Union},
+  author={d’Andrimont, Rapha{\"e}l and Yordanov, Momchil and Martinez-Sanchez, Laura and Eiselt, Beatrice and Palmieri, Alessandra and Dominici, Paolo and Gallego, Javier and Reuter, Hannes Isaak and Joebges, Christian and Lemoine, Guido and others},
+  journal={Scientific data},
+  volume={7},
+  number={1},
+  pages={352},
+  year={2020},
+  publisher={Nature Publishing Group UK London}
+}
 
 ```
 ![Figure end](img/End.png) 
